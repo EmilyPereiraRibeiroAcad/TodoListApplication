@@ -1,0 +1,7 @@
+br\com\emy\todolist\task\iTaskRepository.class
+br\com\emy\todolist\user\IUserRepository.class
+br\com\emy\todolist\filter\FilterTaskAuth.class
+br\com\emy\todolist\user\UserModel.class
+br\com\emy\todolist\task\TaskController.class
+br\com\emy\todolist\TodolistApplication.class
+br\com\emy\todolist\task\TaskModel.class
